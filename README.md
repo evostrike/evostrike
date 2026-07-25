@@ -2,9 +2,7 @@
 <div align="center">
 
 
-
-<img src="https://github.com/user-attachments/assets/6e608e02-8c94-403d-b9a4-61782ce76b78" width="500" style="background: transparent;">
-
+<img src="https://github.com/user-attachments/assets/9e550d4a-7078-4563-b4f5-4fe8a5f04a56" width="500" style="background: transparent;">
 
 
 $${\color{#FFFFFF}evourai \space and \space judelow \space r \space my \space favourites }$$
