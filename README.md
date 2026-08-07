@@ -7,7 +7,6 @@
 
 $${\color{#FFFFFF}evourai \space and \space judelow \space r \space my \space favourites \space . }$$
 
-$${\color{#FFFFFF}to \space that \space one \space anonymous \space person \space whos \space been \space telling \space me \space im \space problematic, \space tell \space me \space who \space you \space are \space in \space my \space straw \space so \space we \space can \space talk \space about \space it \space . }$$
 
 
 
