@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/9e550d4a-7078-4563-b4f5-4fe8a5f04a56" width="500" style="background: transparent;">
 
 
-$${\color{#FFFFFF}evourai \space and \space judelow \space r \space my \space favourites \space . }$$
+$${\color{#FFFFFF}evourai \space and \space judelow \space are \space my \space favourites. }$$
 
 
 
