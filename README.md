@@ -12,7 +12,7 @@ $${\color{#FFFFFF}evourai \space and \space judelow \space are \space my \space 
 
 
    
- [atabook](https://crusher.atabook.org/)  &nbsp; [tiktok](https://www.tiktok.com/@crushedheqrts) &nbsp; [strawpage](https://crusherr.straw.page)
+ [atabook](https://crusher.atabook.org/)  &nbsp; [tiktok](https://www.tiktok.com/@crushedheqrts) 
 
 
 
