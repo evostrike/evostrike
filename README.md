@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4dda6f7b-7182-4004-bca5-b06fdcfa8cd0" width="900" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/9dda83b6-9391-46f3-bc02-76b43287d055" width="850" style="background: transparent;">
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
 $${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space undersand \space ? \space " }$$
 
-<img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="600" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="700" style="background: transparent;">
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
 $${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
