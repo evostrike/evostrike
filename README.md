@@ -21,6 +21,10 @@ $${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}ev
   <img src="https://github.com/user-attachments/assets/2da24cbb-3709-492d-8fc5-02a0d09d1b13" width="200" style="background: transparent; border: none;">
 </a>
 
+<table>
+  <tr>
+    <td>
+
 $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF8FC}is \space }{\color{#B6A2F5}recommended \space . }$$   
 
 <img src="https://github.com/user-attachments/assets/3ad484e3-88ae-4b85-b505-04859945f85b" width="900" style="background: transparent;">
