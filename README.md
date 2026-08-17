@@ -4,10 +4,12 @@
 
 <img src="https://github.com/user-attachments/assets/4dda6f7b-7182-4004-bca5-b06fdcfa8cd0" width="900" style="background: transparent;">
 
+$${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space undersand \space ? }$$
+
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="500" style="background: transparent;">
 
-$${\color{#BEB2E1}evo \space or }{\color{#94B3D7}pix \space }{\color{#FEFDFE}she/her }$$
-$${\color{#93B3d7}judelow \space and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
+$${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
+$${\color{#8DCCF0}judelow \space }{\color{#DCA7E5}and \space evourai \space fan \space !}$$
 
 
 
