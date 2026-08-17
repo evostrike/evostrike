@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
-$${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space undersand \space ? \space " }$$
+${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
 
 
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="90%" style="background: transparent;">
