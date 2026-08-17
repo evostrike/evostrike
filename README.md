@@ -12,6 +12,7 @@ $${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
 $${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
+$${\color{#FDF8FC} single \space . \space }{\color{#B6A2F5}lithromantic \space ... }$$
 
 
 <a href="https://crusher.atabook.org/">
