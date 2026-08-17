@@ -15,9 +15,7 @@ $${\color{#FFFFFF}work \space in \space progress }$$
    
  [atabook](https://crusher.atabook.org/)  &nbsp; [tiktok](https://www.tiktok.com/@crushedheqrts) 
 
-
-
-
+<img src="https://github.com/user-attachments/assets/3ad484e3-88ae-4b85-b505-04859945f85b" width="900" style="background: transparent;">
 
 
 
