@@ -30,7 +30,7 @@ $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF
   </tr>
 </table>
 
-<img src="https://github.com/user-attachments/assets/3ad484e3-88ae-4b85-b505-04859945f85b" width="900" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/bde75b7c-e121-48b4-9119-73136d8969f3" width="850" style="background: transparent;">
 
 
 
