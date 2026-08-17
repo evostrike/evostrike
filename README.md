@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/4dda6f7b-7182-4004-bca5-b06fdcfa8cd0" width="900" style="background: transparent;">
 
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="500" style="background: transparent;">
 
