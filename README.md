@@ -1,18 +1,17 @@
 
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/9dda83b6-9391-46f3-bc02-76b43287d055" width="90%" style="background: transparent;">
+ <img align="center" src="https://github.com/user-attachments/assets/9dda83b6-9391-46f3-bc02-76b43287d055" alt="border" width="200%"/>
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
 $${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space undersand \space ? \space " }$$
 
-<img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="90%" style="background: transparent;">
+<img align="left" src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" alt="border" width="70%"/>
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
 $${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
 $${\color{#FDF8FC} single \space . \space }{\color{#B6A2F5}lithromantic \space ... }$$
+
+
 
 
 <a href="https://crusher.atabook.org/">
@@ -31,9 +30,10 @@ $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF
   </tr>
 </table>
 
-<img src="https://github.com/user-attachments/assets/bde75b7c-e121-48b4-9119-73136d8969f3" width="90%" style="background: transparent;">
 
 
 
+ <img align="center" src="https://github.com/user-attachments/assets/bde75b7c-e121-48b4-9119-73136d8969f3" alt="border" width="200%"/>
 
 ![](htteps://komarev.com/ghpvc/?username=litteryzu&color=ffffff&style=plastic&label=pixies)
+
