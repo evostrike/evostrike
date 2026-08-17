@@ -6,7 +6,8 @@
 
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="500" style="background: transparent;">
 
-$${\color{#BEB2E1}evo \space or }{\color{#94B3D7}pix }$$
+$${\color{#BEB2E1}evo \space or }{\color{#94B3D7}pix \space }{\color{#FEFDFE}she/her }$$
+$${\color{#93B3d7}judelow \space and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
 
 
 
