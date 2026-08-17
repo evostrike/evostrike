@@ -3,10 +3,10 @@
 <div align="center">
 
 
-<img src="https://github.com/user-attachments/assets/608d5c97-a8c2-4403-b869-7bc379a735ce" width="500" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="500" style="background: transparent;">
 
 
-$${\color{#FFFFFF}evourai \space and \space judelow \space are \space my \space favourites. }$$
+$${\color{#FFFFFF}work \space in \space progress }$$
 
 
 
