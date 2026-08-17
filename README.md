@@ -9,7 +9,7 @@ $${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="600" style="background: transparent;">
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
-$${\color{#8DCCF0}judelow \space }{\color{#DCA7E5}and \space evourai \space fan \space !}$$
+$${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
 
 
 
