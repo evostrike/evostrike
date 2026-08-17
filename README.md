@@ -6,9 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/fb47111d-3cce-48b6-b53c-22ddc869d60a" width="500" style="background: transparent;">
 
-
-$${\color{#FFFFFF}work \space in \space progress }$$
-
+$${\color{#BEB2E1}evo \space or }{\color{#94B3D7}pix }$$
 
 
 
@@ -21,4 +19,4 @@ $${\color{#FFFFFF}work \space in \space progress }$$
 
 
 
-![](https://komarev.com/ghpvc/?username=litteryzu&color=ffffff&style=plastic&label=pixies)
+![](htteps://komarev.com/ghpvc/?username=litteryzu&color=ffffff&style=plastic&label=pixies)
