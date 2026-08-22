@@ -8,7 +8,7 @@
 ${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
 
 
-<img src="https://github.com/user-attachments/assets/7de8e72c-22ff-4858-9df6-51a39daf3df8" width="90%" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/ca933443-1e53-4f63-9440-905d36cb92b5" width="90%" style="background: transparent;">
 
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
