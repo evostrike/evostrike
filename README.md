@@ -9,8 +9,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=litteryzu&color=89babe&style=for-the-badge&label=STRIKERS) 
-
 ${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#304E89}to \space understand \space ? \space " }$
 
 <img src="https://github.com/user-attachments/assets/ae2e72a5-4791-406d-9fb7-e6f75001905f" width="50%" style="background: transparent;">
@@ -37,7 +35,7 @@ $${\color{#C1CAB0}* \space dark \space}{\color{#304E89}mode \space }{\color{#C1C
   </tr>
 </table>
 
-
+![](https://komarev.com/ghpvc/?username=litteryzu&color=89babe&style=for-the-badge&label=STRIKERS) 
 
 <img src="https://github.com/user-attachments/assets/28df49fe-aa8a-4d5a-aca0-71321bfebef3" width="95%" style="background: transparent;">
 
