@@ -1,6 +1,8 @@
 <div align="center">
 
 
+${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#304E89}to \space understand \space ? \space " }$
+
 <img src="https://github.com/user-attachments/assets/fb6106dd-9319-423b-83c1-5224390414ee" width="95%" style="background: transparent;">
 
 
@@ -8,10 +10,6 @@
 <img src="https://github.com/user-attachments/assets/6363d6be-d6bc-4fc4-b407-5ca814529a24" width="95%%" style="background: transparent;">
 
 
-
-${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#304E89}to \space understand \space ? \space " }$
-
-<img src="https://github.com/user-attachments/assets/ae2e72a5-4791-406d-9fb7-e6f75001905f" width="50%" style="background: transparent;">
 
 
 $${\color{#89BABE}evo \space or }{\color{#304E89}pix \space }{\color{#C1CAB0}she/her }$$
