@@ -24,7 +24,7 @@ $${\color{#FDF8FC} single \space . \space }{\color{#B6A2F5}lithromantic \space .
   <img src="https://github.com/user-attachments/assets/45feec5e-1270-4991-ac92-428ba051b6e7" width="40%" style="background: transparent; border: none;">
 </a> 
 <a href="https://www.tiktok.com/@crushedheqrts">
-  <img src="https://github.com/user-attachments/assets/2da24cbb-3709-492d-8fc5-02a0d09d1b13" width="30%" style="background: transparent; border: none;">
+  <img src="https://github.com/user-attachments/assets/7fedf6ab-3c51-424b-8e33-9de3eb776dd4" width="40%" style="background: transparent; border: none;">
 </a>
 
 <table>
