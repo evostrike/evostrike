@@ -5,14 +5,15 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/6363d6be-d6bc-4fc4-b407-5ca814529a24" width="95%" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/6363d6be-d6bc-4fc4-b407-5ca814529a24" width="95%%" style="background: transparent;">
 
 
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
-${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
+${\color{#C1CAB0}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
 
+<img src="https://github.com/user-attachments/assets/ae2e72a5-4791-406d-9fb7-e6f75001905f" width="50%" style="background: transparent;">
 
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
@@ -36,8 +37,7 @@ $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF
   </tr>
 </table>
 
-wip
-
+ALL art with the watermark on it is MINE! do not copy or steal.
 
 
 
