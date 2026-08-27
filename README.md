@@ -9,7 +9,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
+![](https://komarev.com/ghpvc/?username=litteryzu&color=89babe&style=for-the-badge&label=STRIKERS) 
 
 ${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#304E89}to \space understand \space ? \space " }$
 
