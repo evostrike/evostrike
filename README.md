@@ -37,8 +37,6 @@ $${\color{#C1CAB0}* \space dark \space}{\color{#304E89}mode \space }{\color{#C1C
   </tr>
 </table>
 
-ALL art with the watermark on it is MINE! do not copy or steal.
-
 
 
 <img src="https://github.com/user-attachments/assets/28df49fe-aa8a-4d5a-aca0-71321bfebef3" width="95%" style="background: transparent;">
