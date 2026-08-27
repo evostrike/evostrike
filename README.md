@@ -1,14 +1,18 @@
 <div align="center">
 
+
+<img src="https://github.com/user-attachments/assets/fb6106dd-9319-423b-83c1-5224390414ee" width="100%" style="background: transparent;">
+
+
+
 <img src="https://github.com/user-attachments/assets/9dda83b6-9391-46f3-bc02-76b43287d055" width="200%" style="background: transparent;">
+
 
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
 ${\color{#FDF8FC}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#FDF8FC}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
 
-
-<img src="https://github.com/user-attachments/assets/ca933443-1e53-4f63-9440-905d36cb92b5" width="90%" style="background: transparent;">
 
 
 $${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
@@ -34,8 +38,6 @@ $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF
 
 wip
 
-
- <img align="center" src="https://github.com/user-attachments/assets/bde75b7c-e121-48b4-9119-73136d8969f3" alt="border" width="200%"/>
 
 ![](htteps://komarev.com/ghpvc/?username=litteryzu&color=ffffff&style=plastic&label=pixies)
 
