@@ -39,5 +39,8 @@ $${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF
 wip
 
 
-![](htteps://komarev.com/ghpvc/?username=litteryzu&color=ffffff&style=plastic&label=pixies)
+
+
+<img src="https://github.com/user-attachments/assets/28df49fe-aa8a-4d5a-aca0-71321bfebef3" width="95%" style="background: transparent;">
+
 
