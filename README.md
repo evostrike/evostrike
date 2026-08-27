@@ -1,11 +1,11 @@
 <div align="center">
 
 
-<img src="https://github.com/user-attachments/assets/fb6106dd-9319-423b-83c1-5224390414ee" width="100%" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/fb6106dd-9319-423b-83c1-5224390414ee" width="95%" style="background: transparent;">
 
 
 
-<img src="https://github.com/user-attachments/assets/9dda83b6-9391-46f3-bc02-76b43287d055" width="200%" style="background: transparent;">
+<img src="https://github.com/user-attachments/assets/6363d6be-d6bc-4fc4-b407-5ca814529a24" width="95%" style="background: transparent;">
 
 
 
