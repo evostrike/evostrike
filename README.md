@@ -24,7 +24,7 @@ $${\color{#C1CAB0} single \space . \space }{\color{#558E80}lithromantic \space .
 <a href="https://crusher.atabook.org/">
   <img src="https://github.com/user-attachments/assets/45feec5e-1270-4991-ac92-428ba051b6e7" width="40%" style="background: transparent; border: none;">
 </a> 
-<a href="https://www.tiktok.com/@crushedheqrts">
+<a href="https://www.tiktok.com/@evostrikee">
   <img src="https://github.com/user-attachments/assets/7fedf6ab-3c51-424b-8e33-9de3eb776dd4" width="40%" style="background: transparent; border: none;">
 </a>
 
