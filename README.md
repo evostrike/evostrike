@@ -11,14 +11,14 @@
 
 ![](https://komarev.com/ghpvc/?username=litteryzu&color=8dccf0&style=for-the-badge&label=pixies) 
 
-${\color{#C1CAB0}" \space but }{\color{#8DCCF0} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#B6A2F5}to \space understand \space ? \space " }$
+${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#C1CAB0}seem \space }{\color{#304E89}to \space understand \space ? \space " }$
 
 <img src="https://github.com/user-attachments/assets/ae2e72a5-4791-406d-9fb7-e6f75001905f" width="50%" style="background: transparent;">
 
 
-$${\color{#B6A2F5}evo \space or }{\color{#8DCCF0}pix \space }{\color{#FEFDFE}she/her }$$
-$${\color{#8DCCF0}judelow \space }{\color{#FEFDFE}and \space }{\color{#DCA7E5}evourai \space fan \space !}$$
-$${\color{#FDF8FC} single \space . \space }{\color{#B6A2F5}lithromantic \space ... }$$
+$${\color{#89BABE}evo \space or }{\color{#304E89}pix \space }{\color{#C1CAB0}she/her }$$
+$${\color{#304E89}judelow \space }{\color{#C1CAB0}and \space }{\color{#89BABE}evourai \space fan \space !}$$
+$${\color{#C1CAB0} single \space . \space }{\color{#558E80}lithromantic \space ... }$$
 
 
 <a href="https://crusher.atabook.org/">
@@ -32,7 +32,7 @@ $${\color{#FDF8FC} single \space . \space }{\color{#B6A2F5}lithromantic \space .
   <tr>
     <td>
 
-$${\color{#FDF8FC}* \space dark \space}{\color{#8DCCF0}mode \space }{\color{#FDF8FC}is \space }{\color{#B6A2F5}recommended \space . }$$   
+$${\color{#C1CAB0}* \space dark \space}{\color{#304E89}mode \space }{\color{#C1CAB0}is \space }{\color{#89BABE}recommended \space . }$$   
     </td>
   </tr>
 </table>
