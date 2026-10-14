@@ -12,7 +12,7 @@ ${\color{#C1CAB0}" \space but }{\color{#89BABE} you \space dont \space}{\color{#
 
 
 
-$${\color{#89BABE}evo \space or }{\color{#304E89}pix \space }{\color{#C1CAB0}she/her }$$
+$${\color{#89BABE}aspen \space or }{\color{#304E89}pix \space }{\color{#C1CAB0}she/her }$$
 $${\color{#304E89}judelow \space }{\color{#C1CAB0}and \space }{\color{#89BABE}evourai \space fan \space !}$$
 $${\color{#C1CAB0} single \space . \space }{\color{#558E80}lithromantic \space ... }$$
 
